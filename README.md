@@ -1,8 +1,6 @@
 # Github-Profile
 
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kntg/kntg/output/github-contribution-grid-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kntg/kntg/output/github-contribution-grid-snake.svg">
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kntg/kntg/output/github-contribution-grid-snake.svg">
+[![GitHub release](https://img.shields.io/github/release/kntg/snk.svg?style=flat-square)](https://github.com/kntg/snk/releases/latest)
 
 <center>
   <table>
