@@ -1,4 +1,4 @@
-"# github-profile" 
+# github-profile
 
 <picture>
   <source
